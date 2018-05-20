@@ -1,6 +1,6 @@
 actors:
   alice:
-    image_url: /images/actors/9052.png
+    image_url: /images/actors/9052.jpg
     name: 9052
     url: http://sns.example.com/alice
   bob:
