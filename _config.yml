@@ -1,15 +1,15 @@
 actors:
   alice:
-    image_url: /images/actors/alice.png
-    name: alice
+    image_url: /images/actors/9052.png
+    name: 9052
     url: http://sns.example.com/alice
   bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
+    image_url: /images/actors/tee.png
+    name: Tee
+    url: https://twitter.com/Teee135
+author: Tee
+description: 好きなゲームや創作にまつわる話題などを、だらりと話していくラジオ
+description_long: 2人の好きなゲームの話題や創作にまつわる話題などを、だらりと話していくラジオです
 email: info@example.com
 exclude:
   - docker
@@ -20,9 +20,9 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: dgc_radio
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: podcast
 language: ja
 markdown: kramdown
 permalink: /episode/:title
