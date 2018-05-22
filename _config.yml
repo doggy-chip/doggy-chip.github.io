@@ -2,7 +2,7 @@ actors:
   9052:
     image_url: /images/actors/9052.jpg
     name: 9052
-    url: http://sns.example.com/alice
+    url: https://twitter.com/9052_creation
   Tee:
     image_url: /images/actors/tee.png
     name: Tee
