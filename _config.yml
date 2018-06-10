@@ -9,7 +9,7 @@ actors:
     url: https://twitter.com/Teee135
 author: Doggy-Chip
 description: 好きなゲームや創作にまつわる話題などを、だらりと話していくラジオ
-description_long: 2人の好きなゲームの話題や創作にまつわる話題などを、だらりと話していくラジオです
+description_long: 2人の好きなゲームの話題や創作にまつわる話題などを、だらりと話していくラジオ
 email: info@example.com
 exclude:
   - docker
