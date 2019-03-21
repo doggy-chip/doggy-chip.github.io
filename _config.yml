@@ -7,6 +7,10 @@ actors:
     image_url: /images/actors/tee.png
     name: Tee
     url: https://twitter.com/Teee135
+  plum:
+    image_url: /images/actors/plum.png
+    name: plum
+    url: https://twitter.com/plum_shiga
 author: Doggy-Chip
 description: 好きなゲームや創作にまつわる話題などを、だらりと話していくラジオ
 description_long: 2人の好きなゲームの話題や創作にまつわる話題などを、だらりと話していくラジオ
